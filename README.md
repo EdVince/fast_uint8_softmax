@@ -1,6 +1,6 @@
 # fast uint8 softmax
 
-speed for size 256*256*256:
+speed for size 256x256x256:
 
 | Softmax | Softmax-base2 | Softmax-base2-fast |
 | ------- | ------------- | ------------------ |
